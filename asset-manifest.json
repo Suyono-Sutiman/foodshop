@@ -1,28 +1,30 @@
 {
   "files": {
-    "main.css": "/foodshop/static/css/main.82f2f52a.chunk.css",
-    "main.js": "/foodshop/static/js/main.3dc459e4.chunk.js",
-    "main.js.map": "/foodshop/static/js/main.3dc459e4.chunk.js.map",
+    "main.css": "/foodshop/static/css/main.0c444e6a.chunk.css",
+    "main.js": "/foodshop/static/js/main.bc19f872.chunk.js",
+    "main.js.map": "/foodshop/static/js/main.bc19f872.chunk.js.map",
     "runtime-main.js": "/foodshop/static/js/runtime-main.c977fe14.js",
     "runtime-main.js.map": "/foodshop/static/js/runtime-main.c977fe14.js.map",
     "static/css/2.47e06e2e.chunk.css": "/foodshop/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.15ed185e.chunk.js": "/foodshop/static/js/2.15ed185e.chunk.js",
-    "static/js/2.15ed185e.chunk.js.map": "/foodshop/static/js/2.15ed185e.chunk.js.map",
+    "static/js/2.2b5e2cda.chunk.js": "/foodshop/static/js/2.2b5e2cda.chunk.js",
+    "static/js/2.2b5e2cda.chunk.js.map": "/foodshop/static/js/2.2b5e2cda.chunk.js.map",
     "index.html": "/foodshop/index.html",
-    "precache-manifest.47024657a29710f49fc8c8123d095428.js": "/foodshop/precache-manifest.47024657a29710f49fc8c8123d095428.js",
+    "precache-manifest.239bf49ecc5f9e8fa85e00a0dbf5d1bb.js": "/foodshop/precache-manifest.239bf49ecc5f9e8fa85e00a0dbf5d1bb.js",
     "service-worker.js": "/foodshop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/foodshop/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.82f2f52a.chunk.css.map": "/foodshop/static/css/main.82f2f52a.chunk.css.map",
-    "static/js/2.15ed185e.chunk.js.LICENSE": "/foodshop/static/js/2.15ed185e.chunk.js.LICENSE",
+    "static/css/main.0c444e6a.chunk.css.map": "/foodshop/static/css/main.0c444e6a.chunk.css.map",
+    "static/js/2.2b5e2cda.chunk.js.LICENSE": "/foodshop/static/js/2.2b5e2cda.chunk.js.LICENSE",
     "static/media/hero-1.jpg": "/foodshop/static/media/hero-1.38619bbc.jpg",
     "static/media/hero-2.jpg": "/foodshop/static/media/hero-2.627655c6.jpg",
-    "static/media/hero-3.jpg": "/foodshop/static/media/hero-3.35a0a9dd.jpg"
+    "static/media/hero-3.jpg": "/foodshop/static/media/hero-3.35a0a9dd.jpg",
+    "static/media/salmon-zucchini.jpg": "/foodshop/static/media/salmon-zucchini.36fbcc18.jpg",
+    "static/media/steak.jpg": "/foodshop/static/media/steak.0323abbe.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c977fe14.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.15ed185e.chunk.js",
-    "static/css/main.82f2f52a.chunk.css",
-    "static/js/main.3dc459e4.chunk.js"
+    "static/js/2.2b5e2cda.chunk.js",
+    "static/css/main.0c444e6a.chunk.css",
+    "static/js/main.bc19f872.chunk.js"
   ]
 }

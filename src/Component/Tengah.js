@@ -1,17 +1,43 @@
 import React from 'react';
-import {Container, Row, Col, Carousel} from 'react-bootstrap';
+import {Container, Row, Col, Carousel, Button} from 'react-bootstrap';
 import hero1 from '../Images/hero-1.jpg';
 import hero2 from '../Images/hero-2.jpg';
 import hero3 from '../Images/hero-3.jpg';
+import {FaYoutube, FaRocket, FaLeaf, FaRocketchat} from 'react-icons/fa';
+import './Tengah.css';
 
 function Tengah () {
     return (
         <Container>
             <Row>
                 <Col md={6}>
-                    <h1>
-                        We Love Delicious Foods!
+                    <h1 className='judul' id='home'>
+                        We Love<br/> Delicious Foods!
                     </h1>
+                    <Row className='tombol'>
+                    <Col >
+                    <Button variant="outline-success">Explore Menu</Button>
+                    </Col>
+                    <Col >
+                    <Button variant="outline-success"><FaYoutube/> Play Video</Button>
+                    </Col>
+                    </Row>
+                    <div className='jero'>
+                    <Row>
+                        <Col xs={{span:3, offset:1}} className='pamer'>
+                        <FaRocket className='rocket'/><br/>
+                        <p>Fast Delivery</p>
+                        </Col>
+                        <Col xs={{span:3}} className='pamer siji'>
+                        <FaLeaf className='daun' /><br/>
+                        <p>Fresh Food</p>
+                        </Col>
+                        <Col xs={{span:3}} className='pamer'>
+                        <FaRocketchat className='chat' /><br/>
+                        <p>24/7 Support</p>
+                        </Col>
+                    </Row>
+                    </div>
                 </Col>
                 <Col md={6}>
                 <Carousel>

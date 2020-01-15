@@ -19,7 +19,7 @@ function Navibar () {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto">
-            <Nav.Link href="#features">Home</Nav.Link>
+            <Nav.Link href="#home">Home</Nav.Link>
             <Nav.Link href="#pricing">About</Nav.Link>
             <NavDropdown title="Special Dishes" id="collasible-nav-dropdown">
                 <NavDropdown.Item href="#action/3.1">Beef Steak Sauce</NavDropdown.Item>

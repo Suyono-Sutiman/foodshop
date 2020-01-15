@@ -1,0 +1,36 @@
+.pamer {
+    text-align: center;
+}
+
+.judul {
+    margin-bottom: 10%;
+}
+
+.tombol {
+    margin-bottom: 8%;
+}
+
+.pamer.siji {
+    border-left: 1px solid grey;
+    border-right: 1px solid grey;
+}
+
+.col-3 {
+    align-self: center;
+}
+
+.rocket {
+    color: blue;
+}
+
+.daun {
+    color: lime;
+}
+
+.chat {
+    color: palevioletred;
+}
+
+.rocket, .daun, .chat {
+    font-size: min(max(20px, 4vw),40px);
+}

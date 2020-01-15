@@ -1,0 +1,13 @@
+p, .btn {
+    font-size: min(max(14px, 4vw),16px);
+}
+
+h1 {
+    font-size: min(max(32px, 4vw),48px);
+}
+
+@media (min-width: 768px) {
+    .col-md-6 {
+        align-self: center;
+    }
+}

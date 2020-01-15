@@ -1,4 +1,5 @@
 import React from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 import Navibar from './Component/Navibar';
 import Tengah from './Component/Tengah';

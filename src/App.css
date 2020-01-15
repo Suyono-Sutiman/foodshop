@@ -6,8 +6,26 @@ h1 {
     font-size: min(max(32px, 4vw),48px);
 }
 
+h2 {
+    font-size: min(max(26px, 4vw),36px);
+}
+
+h3 {
+    font-size: min(max(22px, 4vw),28px);
+}
+
+h4 {
+    font-size: min(max(18px, 4vw),20px);
+}
+
 @media (min-width: 768px) {
     .col-md-6 {
         align-self: center;
     }
+}
+
+.ijo {
+    color: #28a745;
+    margin-top: 10%;
+    margin-bottom: 0px;
 }

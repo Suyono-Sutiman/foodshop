@@ -1,0 +1,15 @@
+.makanan {
+    width: 100%;
+    height: auto;
+}
+
+@media (max-width:767px) {
+    .makanan {
+        display: none;
+    }
+}
+
+.makanan1 {
+    width: 100%;
+    height: auto;
+}

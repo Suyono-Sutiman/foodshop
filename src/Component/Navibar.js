@@ -20,10 +20,10 @@ function Navibar () {
         <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="mr-auto">
             <Nav.Link href="#home">Home</Nav.Link>
-            <Nav.Link href="#pricing">About</Nav.Link>
+            <Nav.Link href="#about">About</Nav.Link>
             <NavDropdown title="Special Dishes" id="collasible-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Beef Steak Sauce</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.2">Salmon Zucchini</NavDropdown.Item>
+                <NavDropdown.Item href="#steak">Beef Steak Sauce</NavDropdown.Item>
+                <NavDropdown.Item href="#salmon">Salmon Zucchini</NavDropdown.Item>
             </NavDropdown>
             </Nav>
             <Nav>

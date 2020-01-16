@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82a0df0f28d331a97f9b2b3986cce29c",
+    "revision": "ad5f632efc74ed888517f8d142c36e15",
     "url": "/foodshop/index.html"
   },
   {
-    "revision": "701d6bbd5d60c003b897",
+    "revision": "e1383382520fdb3767c9",
     "url": "/foodshop/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "ff68374f6fe5ee640723",
-    "url": "/foodshop/static/css/main.0c444e6a.chunk.css"
+    "revision": "25b04498a3a307119e02",
+    "url": "/foodshop/static/css/main.fe55fccb.chunk.css"
   },
   {
-    "revision": "701d6bbd5d60c003b897",
-    "url": "/foodshop/static/js/2.2b5e2cda.chunk.js"
+    "revision": "e1383382520fdb3767c9",
+    "url": "/foodshop/static/js/2.ba541bdf.chunk.js"
   },
   {
     "revision": "b15a737ad2cfd16685fd27e8e85315d2",
-    "url": "/foodshop/static/js/2.2b5e2cda.chunk.js.LICENSE"
+    "url": "/foodshop/static/js/2.ba541bdf.chunk.js.LICENSE"
   },
   {
-    "revision": "ff68374f6fe5ee640723",
-    "url": "/foodshop/static/js/main.bc19f872.chunk.js"
+    "revision": "25b04498a3a307119e02",
+    "url": "/foodshop/static/js/main.1a2d3f9b.chunk.js"
   },
   {
     "revision": "f24d1251cac930ae16da",
@@ -46,5 +46,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0323abbe19967e2feff00221700fc738",
     "url": "/foodshop/static/media/steak.0323abbe.jpg"
+  },
+  {
+    "revision": "f9cc46efcbaec5f5b190f810f45e781a",
+    "url": "/foodshop/static/media/testi-bg.f9cc46ef.jpg"
   }
 ]);

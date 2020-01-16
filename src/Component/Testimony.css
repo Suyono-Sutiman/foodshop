@@ -1,0 +1,26 @@
+.wadah5 {
+    text-align: center;
+    background-image: url(../Images/testi-bg.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 10%;
+}
+
+@media (min-width:768px) {
+    .wadah5 {
+        margin-top: 5%;
+    }
+}
+
+.limo {
+    color: whitesmoke;
+}
+
+.limo span {
+    color: #28a745;
+}

@@ -27,7 +27,7 @@ function Navibar () {
             </NavDropdown>
             </Nav>
             <Nav>
-            <Nav.Link href="#deets">Menu</Nav.Link>
+            <Nav.Link href="#menu">Menu</Nav.Link>
             <Nav.Link >Team</Nav.Link>
             <Nav.Link >Reservation</Nav.Link>
             </Nav>

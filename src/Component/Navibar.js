@@ -5,7 +5,7 @@ import './Navibar.css';
 
 function Navibar () {
     return (
-        <Navbar collapseOnSelect expand="md" bg="light" variant="light" sticky='top'>
+        <Navbar collapseOnSelect expand="md" bg="light" variant="light" fixed='top'>
         <Navbar.Brand href="#home" className='jeneng'>
             <img
             alt=""
@@ -28,8 +28,8 @@ function Navibar () {
             </Nav>
             <Nav>
             <Nav.Link href="#menu">Menu</Nav.Link>
-            <Nav.Link >Team</Nav.Link>
-            <Nav.Link >Reservation</Nav.Link>
+            <Nav.Link href="#team">Team</Nav.Link>
+            <Nav.Link href="#book">Reservation</Nav.Link>
             </Nav>
         </Navbar.Collapse>
         </Navbar>

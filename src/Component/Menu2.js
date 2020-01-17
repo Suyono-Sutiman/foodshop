@@ -4,8 +4,8 @@ import Menu from './Menu';
 
 function Menu2 () {
     return (
-        <Container style={{textAlign:'center'}}>
-            <p className='ijo' id='menu' >Specialties</p>
+        <Container style={{textAlign:'center'}} id='menu'>
+            <p className='ijo'  >Specialties</p>
             <h2 style={{marginBottom:'0px'}}>Our Menu</h2>
             <Row>
                 <Col md={4}>

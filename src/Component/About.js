@@ -6,13 +6,13 @@ import './About.css';
 
 function About (){
     return (
-        <Container>
+        <Container id='about'>
             <Row>
                 <Col md={6}>
                     <img src={hero2} alt='makanan enak' className='makanan'/>
                 </Col>
                 <Col md={6}>
-                    <p className='ijo' id='about' >About</p>
+                    <p className='ijo'  >About</p>
                     <h2>Welcome To Foodshop</h2>
                     <p>On her way she met a copy. 
                         The copy warned the Little Blind Text, 

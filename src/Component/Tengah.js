@@ -8,10 +8,10 @@ import './Tengah.css';
 
 function Tengah () {
     return (
-        <Container>
+        <Container id='home'>
             <Row>
                 <Col md={6}>
-                    <h1 className='judul' id='home'>
+                    <h1 className='judul'>
                         We Love<br/> Delicious Foods!
                     </h1>
                     <Row className='tombol'>

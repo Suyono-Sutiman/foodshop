@@ -4,7 +4,7 @@ import './Reservation.css';
 
 function Reservation () {
     return (
-        <Container className='wadah7'>
+        <Container className='wadah7' id='book' >
             <Container style={{paddingTop: '10%'}} >
             <Row>
                 <Col md={5} style={{

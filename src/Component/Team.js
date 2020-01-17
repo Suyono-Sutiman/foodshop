@@ -7,9 +7,9 @@ import {FaFacebookSquare, FaTwitter, FaInstagram, FaGooglePlusG} from 'react-ico
 
 function Team () {
     return (
-        <Container style={{textAlign:'center'}} >
+        <Container style={{textAlign:'center'}} id='team'  >
             <p className='ijo'>Specialties</p>
-            <h2>Our Team</h2>
+            <h2 >Our Team</h2>
             <CardDeck>
                 <Card>
                     <Card.Img variant="top" src={ceo} alt='team' />

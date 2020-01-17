@@ -1,11 +1,11 @@
 import React from 'react';
-import {Carousel} from 'react-bootstrap';
+import {Carousel, Container} from 'react-bootstrap';
 import {FaQuoteLeft} from 'react-icons/fa';
 import './Testimony.css';
 
 function Testimony () {
     return (
-        <div className='wadah5'>
+        <Container className='wadah5'>
             <p className='ijo'>Testimony</p>
             <h2 className='limo' >Happy Customer</h2>
             <Carousel style={{height:'250px'}} >
@@ -30,7 +30,7 @@ function Testimony () {
                         <p className='limo'>CEO of<span> Get Excepteur</span></p>
                     </Carousel.Item>
             </Carousel>
-        </div>
+        </Container>
     )
 }
 

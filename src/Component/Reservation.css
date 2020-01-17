@@ -1,0 +1,20 @@
+.wadah7 {
+    background-image: url(../Images/reservation-bg.jpg);
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: left;
+    margin-top: 10%;
+}
+
+@media (min-width:768px) {
+    .wadah7 {
+        margin-top: 5%;
+    }
+}
+
+.col-md-5 {
+    background: white;
+    margin: 15px;
+}

@@ -7,6 +7,9 @@ import About from './Component/About';
 import Special from './Component/Special';
 import Menu2 from './Component/Menu2';
 import Testimony from './Component/Testimony';
+import Team from './Component/Team';
+import Reservation from './Component/Reservation';
+import Footer from './Component/Footer';
 
 function App() {
   return (
@@ -17,6 +20,9 @@ function App() {
       <Special/>
       <Menu2/>
       <Testimony/>
+      <Team/>
+      <Reservation/>
+      <Footer/>
     </div>
   );
 }

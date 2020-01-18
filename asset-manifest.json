@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/foodshop/static/css/main.fe55fccb.chunk.css",
-    "main.js": "/foodshop/static/js/main.1a2d3f9b.chunk.js",
-    "main.js.map": "/foodshop/static/js/main.1a2d3f9b.chunk.js.map",
+    "main.css": "/foodshop/static/css/main.e3417a23.chunk.css",
+    "main.js": "/foodshop/static/js/main.976666d7.chunk.js",
+    "main.js.map": "/foodshop/static/js/main.976666d7.chunk.js.map",
     "runtime-main.js": "/foodshop/static/js/runtime-main.c977fe14.js",
     "runtime-main.js.map": "/foodshop/static/js/runtime-main.c977fe14.js.map",
     "static/css/2.47e06e2e.chunk.css": "/foodshop/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ba541bdf.chunk.js": "/foodshop/static/js/2.ba541bdf.chunk.js",
-    "static/js/2.ba541bdf.chunk.js.map": "/foodshop/static/js/2.ba541bdf.chunk.js.map",
+    "static/js/2.f6eaa050.chunk.js": "/foodshop/static/js/2.f6eaa050.chunk.js",
+    "static/js/2.f6eaa050.chunk.js.map": "/foodshop/static/js/2.f6eaa050.chunk.js.map",
     "index.html": "/foodshop/index.html",
-    "precache-manifest.9d0bc4308a8ea836fcc8df113b568c35.js": "/foodshop/precache-manifest.9d0bc4308a8ea836fcc8df113b568c35.js",
+    "precache-manifest.309a4fe9c7c85d5b5686877f09f85a15.js": "/foodshop/precache-manifest.309a4fe9c7c85d5b5686877f09f85a15.js",
     "service-worker.js": "/foodshop/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/foodshop/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.fe55fccb.chunk.css.map": "/foodshop/static/css/main.fe55fccb.chunk.css.map",
-    "static/js/2.ba541bdf.chunk.js.LICENSE": "/foodshop/static/js/2.ba541bdf.chunk.js.LICENSE",
+    "static/css/main.e3417a23.chunk.css.map": "/foodshop/static/css/main.e3417a23.chunk.css.map",
+    "static/js/2.f6eaa050.chunk.js.LICENSE": "/foodshop/static/js/2.f6eaa050.chunk.js.LICENSE",
+    "static/media/chef-1.jpg": "/foodshop/static/media/chef-1.8adc7f17.jpg",
+    "static/media/chef-2.jpg": "/foodshop/static/media/chef-2.f8bb245b.jpg",
+    "static/media/chef-3.jpg": "/foodshop/static/media/chef-3.06f2fd4b.jpg",
     "static/media/hero-1.jpg": "/foodshop/static/media/hero-1.38619bbc.jpg",
     "static/media/hero-2.jpg": "/foodshop/static/media/hero-2.627655c6.jpg",
     "static/media/hero-3.jpg": "/foodshop/static/media/hero-3.35a0a9dd.jpg",
+    "static/media/Reservation.css": "/foodshop/static/media/reservation-bg.b3c83b70.jpg",
     "static/media/salmon-zucchini.jpg": "/foodshop/static/media/salmon-zucchini.36fbcc18.jpg",
     "static/media/steak.jpg": "/foodshop/static/media/steak.0323abbe.jpg",
     "static/media/Testimony.css": "/foodshop/static/media/testi-bg.f9cc46ef.jpg"
@@ -24,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.c977fe14.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.ba541bdf.chunk.js",
-    "static/css/main.fe55fccb.chunk.css",
-    "static/js/main.1a2d3f9b.chunk.js"
+    "static/js/2.f6eaa050.chunk.js",
+    "static/css/main.e3417a23.chunk.css",
+    "static/js/main.976666d7.chunk.js"
   ]
 }
